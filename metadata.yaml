@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4300
     wikipedia: http://en.wikipedia.org/wiki/William_Carew_Hazlitt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46412#A-Select-Collection-of-Old-English-Plays-Volume-10--of-15-
 gutenberg_issued: '2014-07-25'
 gutenberg_type: Text
 identifiers:
