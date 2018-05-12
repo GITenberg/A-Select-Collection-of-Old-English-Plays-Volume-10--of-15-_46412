@@ -1,0 +1,31 @@
+_repo: A-Select-Collection-of-Old-English-Plays-Volume-10--of-15-_46412
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46412-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Hazlitt, William Carew
+    alias: Hazlitt, W. Carew (William Carew)
+    birthdate: 1834
+    deathdate: 1913
+    gutenberg_agent_id: '4300'
+    url: http://www.gutenberg.org/2009/agents/4300
+    wikipedia: http://en.wikipedia.org/wiki/William_Carew_Hazlitt
+description: ''
+gutenberg_issued: '2014-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46412'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English drama'
+tableOfContents: The revenger's tragedy -- The dumb knight -- The merry Devil of Edmonton
+  -- Ram-Alley, or merry tricks -- The second maiden's tragedy -- Englishmen for my
+  money.
+title: A Select Collection of Old English Plays, Volume 10
+url: http://www.gutenberg.org/ebooks/46412
